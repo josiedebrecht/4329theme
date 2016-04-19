@@ -5,4 +5,4 @@ body { text-align: center; }
 #sidebar { width: 23%; border: 2px #a2a2a2 transparent; float: right; }
 #delimiter { clear: both; }
 #footer { border: 2px #a2a2a2 solid; }
-.title { font-size: 11pt; font-family: verdana; font-weight: bold; }
+.title { font-size: 13pt; font-family: arial,sans-serif; font-weight: bold; }
